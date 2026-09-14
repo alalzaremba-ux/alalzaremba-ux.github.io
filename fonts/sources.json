@@ -1,0 +1,78 @@
+{
+  "retrievedAt": "2026-09-07",
+  "stylesheetSource": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700..900&family=IBM+Plex+Sans:wght@400..600&family=IBM+Plex+Mono:wght@400;500&display=swap",
+  "fonts": [
+    {
+      "family": "IBM Plex Mono",
+      "weight": "400",
+      "subset": "cyrillic",
+      "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1isq131nj-otFQ.woff2",
+      "filename": "ibm-plex-mono-400-cyrillic.woff2",
+      "bytes": 5476,
+      "sha256": "7b59d6bf7f8b8408ac28f27d01dca9a890abeae77045d343b1d8ccb089a92e54"
+    },
+    {
+      "family": "IBM Plex Mono",
+      "weight": "400",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1i8q131nj-o.woff2",
+      "filename": "ibm-plex-mono-400-latin.woff2",
+      "bytes": 10052,
+      "sha256": "c36f509c0a8f9f85f29cb44bc8701d8a9e0b14c499e77a884f789ead7093a7ac"
+    },
+    {
+      "family": "IBM Plex Mono",
+      "weight": "500",
+      "subset": "cyrillic",
+      "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlRFgsAXHNlYzg.woff2",
+      "filename": "ibm-plex-mono-500-cyrillic.woff2",
+      "bytes": 5500,
+      "sha256": "d524dc8ff6dbf7ed69772f3b2ff4affaf5a89b5762b270e36c3f21da0d4e39f5"
+    },
+    {
+      "family": "IBM Plex Mono",
+      "weight": "500",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3twJwlBFgsAXHNk.woff2",
+      "filename": "ibm-plex-mono-500-latin.woff2",
+      "bytes": 10060,
+      "sha256": "a76f53ca6612e7b3828eec2311098675b7f9849ae4169a8bcef6302aec02a6c0"
+    },
+    {
+      "family": "IBM Plex Sans",
+      "weight": "400 600",
+      "subset": "cyrillic",
+      "url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxaKYbSB4ZhRNU.woff2",
+      "filename": "ibm-plex-sans-400-600-cyrillic.woff2",
+      "bytes": 25408,
+      "sha256": "5bac72520e0a9a5669e08b15fa1e15be6f4da74aa0b2d4315a97c11e1465120a"
+    },
+    {
+      "family": "IBM Plex Sans",
+      "weight": "400 600",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYbSB4Zh.woff2",
+      "filename": "ibm-plex-sans-400-600-latin.woff2",
+      "bytes": 40240,
+      "sha256": "056e4e2459f57a0033c8c9c844ff19d6e42ac8602027803d4345823bcc939818"
+    },
+    {
+      "family": "Roboto Condensed",
+      "weight": "700 900",
+      "subset": "cyrillic",
+      "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19a7DQk6YvNkeg.woff2",
+      "filename": "roboto-condensed-700-900-cyrillic.woff2",
+      "bytes": 24828,
+      "sha256": "b96fbbb3e96d271177d728b44a7603815b3baf259eb0979fbc75640e93a23962"
+    },
+    {
+      "family": "Roboto Condensed",
+      "weight": "700 900",
+      "subset": "latin",
+      "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2",
+      "filename": "roboto-condensed-700-900-latin.woff2",
+      "bytes": 46080,
+      "sha256": "718ced55c5d8e207d6d14b1765fe6cf5886882834f45cc0ad23283cd210f9a96"
+    }
+  ]
+}
